@@ -1,0 +1,1 @@
+{"uuid":"7309a460-ca0e-4d54-b3c9-f00f71a78b9c","name":"SwoopTest.tearDawn","children":["7ef0b990-fe87-465f-b1f3-08b24db6e491"],"description":"","befores":[],"afters":[{"name":"tearDawn","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1686752845190,"stop":1686752845348}],"start":1686752845189,"stop":1686752845348}

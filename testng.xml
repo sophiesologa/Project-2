@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="All Test suite">
+    <test name="SwoopTest">
+        <groups>
+            <run>
+                <include name="Regression1"/>
+                <include name="Regression2"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="SwoopTest">
+            </class>
+        </classes>
+    </test>
+</suite>
